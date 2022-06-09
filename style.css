@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    border-style: solid;
+    border-color: black;
+}
+
+.parent-div{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    border-style: solid;
+    border-color: black;
+}
+
+.child-div{
+    border-style: solid;
+    border-color: white;
+    flex: 1;
+    border-style: solid;
+    border-color: black;
+}
+
