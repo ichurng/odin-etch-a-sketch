@@ -10,15 +10,13 @@
     display: flex;
     flex-direction: column;
     flex: 1;
-    border-style: solid;
-    border-color: black;
 }
 
 .child-div{
-    border-style: solid;
-    border-color: white;
     flex: 1;
-    border-style: solid;
-    border-color: black;
+}
+
+.hover{
+    background-color: blue;
 }
 
